@@ -1,0 +1,6 @@
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Kettes\bin\Debug\Kettes.exe.config
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Kettes\bin\Debug\Kettes.exe
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Kettes\bin\Debug\Kettes.pdb
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Kettes\obj\Debug\Kettes.csproj.CoreCompileInputs.cache
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Kettes\obj\Debug\Kettes.exe
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Kettes\obj\Debug\Kettes.pdb

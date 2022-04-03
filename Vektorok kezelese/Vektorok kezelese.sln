@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorozatok", "Vektorok kezelese\Sorozatok.csproj", "{003F6BE6-5F86-43BB-A482-0ABEA8DE6581}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binaris", "Binaris\Binaris.csproj", "{CBB28735-2408-488A-9C5B-EA7E508BD4C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lotto", "Lotto\Lotto.csproj", "{97B8089E-58C9-4A82-BD59-FA3F6D639FB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu", "Menu\Menu.csproj", "{3ED364ED-3976-414F-8B04-A7C28E0C7F90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kettes", "Kettes\Kettes.csproj", "{2C320F3C-FCE6-4C16-9CD7-52174BB2F3AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SzamRendszer", "SzamRendszer\SzamRendszer.csproj", "{58A95F5F-1612-48EF-A094-17F9A65A1289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{003F6BE6-5F86-43BB-A482-0ABEA8DE6581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003F6BE6-5F86-43BB-A482-0ABEA8DE6581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003F6BE6-5F86-43BB-A482-0ABEA8DE6581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003F6BE6-5F86-43BB-A482-0ABEA8DE6581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB28735-2408-488A-9C5B-EA7E508BD4C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB28735-2408-488A-9C5B-EA7E508BD4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB28735-2408-488A-9C5B-EA7E508BD4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB28735-2408-488A-9C5B-EA7E508BD4C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B8089E-58C9-4A82-BD59-FA3F6D639FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B8089E-58C9-4A82-BD59-FA3F6D639FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B8089E-58C9-4A82-BD59-FA3F6D639FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B8089E-58C9-4A82-BD59-FA3F6D639FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ED364ED-3976-414F-8B04-A7C28E0C7F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED364ED-3976-414F-8B04-A7C28E0C7F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED364ED-3976-414F-8B04-A7C28E0C7F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED364ED-3976-414F-8B04-A7C28E0C7F90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C320F3C-FCE6-4C16-9CD7-52174BB2F3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C320F3C-FCE6-4C16-9CD7-52174BB2F3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C320F3C-FCE6-4C16-9CD7-52174BB2F3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C320F3C-FCE6-4C16-9CD7-52174BB2F3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A95F5F-1612-48EF-A094-17F9A65A1289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A95F5F-1612-48EF-A094-17F9A65A1289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A95F5F-1612-48EF-A094-17F9A65A1289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A95F5F-1612-48EF-A094-17F9A65A1289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48F2E805-64A3-4A08-A6FC-31E1755BE42A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Binaris\bin\Debug\Binaris.exe.config
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Binaris\bin\Debug\Binaris.exe
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Binaris\bin\Debug\Binaris.pdb
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Binaris\obj\Debug\Binaris.csprojAssemblyReference.cache
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Binaris\obj\Debug\Binaris.csproj.CoreCompileInputs.cache
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Binaris\obj\Debug\Binaris.exe
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Binaris\obj\Debug\Binaris.pdb

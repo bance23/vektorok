@@ -1,0 +1,7 @@
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Lotto\bin\Debug\Lotto.exe.config
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Lotto\bin\Debug\Lotto.exe
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Lotto\bin\Debug\Lotto.pdb
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Lotto\obj\Debug\Lotto.csprojAssemblyReference.cache
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Lotto\obj\Debug\Lotto.csproj.CoreCompileInputs.cache
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Lotto\obj\Debug\Lotto.exe
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Lotto\obj\Debug\Lotto.pdb

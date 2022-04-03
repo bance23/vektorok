@@ -1,0 +1,6 @@
+C:\Users\Bettyna\source\repos\Vektorok kezelese\SzamRendszer\bin\Debug\SzamRendszer.exe.config
+C:\Users\Bettyna\source\repos\Vektorok kezelese\SzamRendszer\bin\Debug\SzamRendszer.exe
+C:\Users\Bettyna\source\repos\Vektorok kezelese\SzamRendszer\bin\Debug\SzamRendszer.pdb
+C:\Users\Bettyna\source\repos\Vektorok kezelese\SzamRendszer\obj\Debug\SzamRendszer.csproj.CoreCompileInputs.cache
+C:\Users\Bettyna\source\repos\Vektorok kezelese\SzamRendszer\obj\Debug\SzamRendszer.exe
+C:\Users\Bettyna\source\repos\Vektorok kezelese\SzamRendszer\obj\Debug\SzamRendszer.pdb

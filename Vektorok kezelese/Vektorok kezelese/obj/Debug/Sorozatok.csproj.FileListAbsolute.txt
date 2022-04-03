@@ -1,0 +1,7 @@
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Vektorok kezelese\bin\Debug\Vektorok kezelese.exe.config
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Vektorok kezelese\bin\Debug\Vektorok kezelese.exe
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Vektorok kezelese\bin\Debug\Vektorok kezelese.pdb
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Vektorok kezelese\obj\Debug\Sorozatok.csprojAssemblyReference.cache
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Vektorok kezelese\obj\Debug\Sorozatok.csproj.CoreCompileInputs.cache
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Vektorok kezelese\obj\Debug\Vektorok kezelese.exe
+C:\Users\Bettyna\source\repos\Vektorok kezelese\Vektorok kezelese\obj\Debug\Vektorok kezelese.pdb
